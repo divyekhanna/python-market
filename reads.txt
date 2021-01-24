@@ -1,0 +1,11 @@
+What are p,d,q values:
+https://stats.stackexchange.com/questions/44992/what-are-the-values-p-d-q-in-arima
+
+Introduction to ARIMA:
+http://people.duke.edu/~rnau/411arim.htm
+
+Using ARIMA for stocks:
+https://blog.quantinsti.com/forecasting-stock-returns-using-arima-model/
+
+ARIMA library reference:
+https://www.statsmodels.org/stable/generated/statsmodels.tsa.arima.model.ARIMA.html
